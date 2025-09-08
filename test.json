@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Rotterdam",
+    "local_names": {
+      "uk": "Роттердам",
+      "tt": "Роттердам",
+      "es": "Róterdam",
+      "la": "Roterodamum",
+      "ko": "로테르담",
+      "lv": "Roterdama",
+      "pt": "Roterdão",
+      "sr": "Ротердам",
+      "zh": "鹿特丹",
+      "nl": "Rotterdam",
+      "lt": "Roterdamas",
+      "ar": "روتردام",
+      "de": "Rotterdam",
+      "eo": "Roterdamo",
+      "en": "Rotterdam",
+      "mk": "Ротердам",
+      "ru": "Роттердам",
+      "oc": "Rotterdam"
+    },
+    "lat": 51.9244424,
+    "lon": 4.47775,
+    "country": "NL",
+    "state": "South Holland"
+  },
+  {
+    "name": "Rotterdam",
+    "local_names": {
+      "es": "Róterdam",
+      "nl": "Rotterdam",
+      "ar": "روتردام",
+      "eo": "Roterdamo"
+    },
+    "lat": 51.9233986,
+    "lon": 4.48956810747027,
+    "country": "NL",
+    "state": "South Holland"
+  },
+  {
+    "name": "Town of Rotterdam",
+    "local_names": {
+      "en": "Town of Rotterdam"
+    },
+    "lat": 42.7870209,
+    "lon": -73.9709583,
+    "country": "US",
+    "state": "New York"
+  },
+  {
+    "name": "Rotterdam",
+    "lat": 6.1802798,
+    "lon": -57.5360393,
+    "country": "GY",
+    "state": "East Berbice-Corentyne"
+  },
+  {
+    "name": "Rotterdam",
+    "lat": 6.8251743,
+    "lon": -58.2100112,
+    "country": "GY",
+    "state": "Essequibo Islands"
+  }
+]
